@@ -1,0 +1,6 @@
+﻿# win32
+
+Debug.win32/
+*.sdf
+*.suo
+*.opensdf
